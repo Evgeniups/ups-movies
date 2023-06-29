@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ups-movies/static/css/main.e156789d.css",
+    "main.js": "/ups-movies/static/js/main.f316322d.js",
+    "index.html": "/ups-movies/index.html",
+    "main.e156789d.css.map": "/ups-movies/static/css/main.e156789d.css.map",
+    "main.f316322d.js.map": "/ups-movies/static/js/main.f316322d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e156789d.css",
+    "static/js/main.f316322d.js"
+  ]
+}
